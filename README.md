@@ -19,7 +19,7 @@
 ## 🌐 Socials:
 
 [![Telegram](https://img.shields.io/badge/Telegram-@AdiletF-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AdiletF)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adilet_Tursunbekov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D1%82-%D1%82%D1%83%D1%80%D1%81%D1%83%D0%BD%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2-a02625244/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adilet_Tursunbekov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilet-tursunbekov/)
 [![Instagram](https://img.shields.io/badge/Instagram-@adilet.urs-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/adilet.urs/)
 [![Gmail](https://img.shields.io/badge/Gmail-adileturs@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adileturs@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AdiletURS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdiletURS)
