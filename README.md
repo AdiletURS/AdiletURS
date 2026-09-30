@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7EC8E3&center=true&vCenter=true&width=650&lines=Hi!+I'm+Adilet+%F0%9F%91%8B;Java+Backend+Developer+%E2%80%94+Payments+%2F+Fintech;Spring+Boot+%7C+Kafka+%7C+PostgreSQL+%7C+Oracle;ISO+8583+%7C+IBM+MQ+%7C+REST+integrations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7EC8E3&center=true&vCenter=true&width=650&lines=Hi!+I'm+Adilet+%F0%9F%91%8B;Java+Backend+Developer+%E2%80%94+Payments+%2F+Fintech;Spring+Boot+%7C+Kafka+%7C+PostgreSQL+%7C+Oracle;REST+integrations+%7C+Fiscal+systems" alt="Typing SVG" />
 </div>
 
 ---
@@ -8,10 +8,10 @@
 
 * 🏦 **Java Software Engineer @ BCCard Kyrgyzstan** — payment processing (BCCard Korea JV × Kyrgyz interbank processing center)
 * 💳 Building payment backend on **Java + Spring Boot**: payment processing logic, REST integrations with partner banks, high correctness & traceability requirements
-* 🔌 Implemented **ISO 8583 over IBM MQ** integration with fiscal cash registers — payment operation and fiscal receipt are matched automatically. Presented the technical part of the solution at the project defense in the Ministry of Digital Development of the Kyrgyz Republic
+* 🏛️ **Defended the technical solution for fiscal cash registers (KKM)** at the Ministry of Digital Development of the Kyrgyz Republic — answered questions on the exchange protocol and fiscalization logic. The solution passed certification
 * ⚡ **Apache Kafka** producers/consumers for event-driven processing — long-running operations moved out of the synchronous request path
 * 🗄️ **PostgreSQL / Oracle**: schema design, indexes, partitioning, N+1 elimination, heavy query rewrites
-* 🧩 Before that — 1+ year **Backend / Full-Stack (NestJS + Vue 3)** at KEYSOFT: government and enterprise systems, from domain model to production handover
+* 🧩 Before that — 1+ year **Backend (NestJS)** at KEYSOFT: systems for government agencies (incl. the Ministry of Emergency Situations of the KR) and international organizations, from domain model to production handover
 * 🎓 **Mentoring experience** — 1+ year at Geeks IT Courses: guiding and training developers
 * 📫 **adileturs@gmail.com** · Bishkek, Kyrgyzstan
 
@@ -43,9 +43,7 @@
 **Messaging & Integrations**
 
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![IBM MQ](https://img.shields.io/badge/IBM_MQ-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![ISO 8583](https://img.shields.io/badge/ISO_8583-4B4B4B?style=for-the-badge)
 ![REST](https://img.shields.io/badge/REST_/_SOAP_/_OpenAPI-085EA2?style=for-the-badge&logo=swagger&logoColor=white)
 
 **Testing & DevOps**
@@ -59,7 +57,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 <details>
-<summary><b>Also worked with (frontend / Node)</b></summary>
+<summary><b>Also worked with (Node / Frontend)</b></summary>
 
 <br>
 
@@ -78,7 +76,7 @@
 | Area | Details |
 | --- | --- |
 | 💳 Payments | Processing services, partner-bank REST integrations, retries & error handling |
-| 📨 Messaging | Kafka event processing, ISO 8583 message build/parse over IBM MQ |
+| 📨 Messaging | Kafka event processing |
 | 🗄️ Databases | Query optimization, indexing strategy, partitioning on PostgreSQL & Oracle |
 | 🧪 Quality | JUnit 5 + Mockito coverage, refactoring legacy processing code, code review |
 
